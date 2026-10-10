@@ -9,3 +9,7 @@ node_modules/
 /allure-results/
 /allure-report/
 /playwright-html-report/
+
+#env files(credentials)
+config/.env.*
+!config/.env.example
